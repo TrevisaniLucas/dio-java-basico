@@ -1,0 +1,13 @@
+A escrita de códigos de um programa é feito através da composição de palavras pré-definidas pela linguagem
+com as expressões que utlizamos para determinar o nome do nossos arquivos, classes, atributos e métodos.
+
+É muito comum mesclarmos expresões no idioma americano com o nosso vocabulário. Existem projetos que reco-
+mendam que toda a implementação do seu programa seja escrita na língua inglesa.
+
+Sintaxe de declaração de uma nova classe:
+
+Semre iniciara "public class (nome da classe)  {
+
+       // Seu código aqui
+}
+
